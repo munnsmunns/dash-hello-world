@@ -1,0 +1,213 @@
+{
+  "version": 1,
+  "locale": "en_US.cp1252",
+  "metadata": {
+    "appmode": "python-dash",
+    "entrypoint": "app:app"
+  },
+  "python": {
+    "version": "3.9.7",
+    "package_manager": {
+      "name": "pip",
+      "version": "22.0.4",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "e35e480ef9c8d1720c7e9965e020b6fe"
+    },
+    ".git\\HEAD": {
+      "checksum": "cf7dd3ce51958c5f13fece957cc417fb"
+    },
+    ".git\\config": {
+      "checksum": "0badf1cc3b05e648a0129f4f270e2a3a"
+    },
+    ".git\\description": {
+      "checksum": "a0a7c3fff21f2aea3cfa1d0316dd816c"
+    },
+    ".git\\hooks\\applypatch-msg.sample": {
+      "checksum": "ce562e08d8098926a3862fc6e7905199"
+    },
+    ".git\\hooks\\commit-msg.sample": {
+      "checksum": "579a3c1e12a1e74a98169175fb913012"
+    },
+    ".git\\hooks\\fsmonitor-watchman.sample": {
+      "checksum": "ea587b0fae70333bce92257152996e70"
+    },
+    ".git\\hooks\\post-update.sample": {
+      "checksum": "2b7ea5cee3c49ff53d41e00785eb974c"
+    },
+    ".git\\hooks\\pre-applypatch.sample": {
+      "checksum": "054f9ffb8bfe04a599751cc757226dda"
+    },
+    ".git\\hooks\\pre-commit.sample": {
+      "checksum": "305eadbbcd6f6d2567e033ad12aabbc4"
+    },
+    ".git\\hooks\\pre-merge-commit.sample": {
+      "checksum": "39cb268e2a85d436b9eb6f47614c3cbc"
+    },
+    ".git\\hooks\\pre-push.sample": {
+      "checksum": "3c5989301dd4b949dfa1f43738a22819"
+    },
+    ".git\\hooks\\pre-rebase.sample": {
+      "checksum": "56e45f2bcbc8226d2b4200f7c46371bf"
+    },
+    ".git\\hooks\\pre-receive.sample": {
+      "checksum": "2ad18ec82c20af7b5926ed9cea6aeedd"
+    },
+    ".git\\hooks\\prepare-commit-msg.sample": {
+      "checksum": "2b5c047bdb474555e1787db32b2d2fc5"
+    },
+    ".git\\hooks\\update.sample": {
+      "checksum": "7bf1fcc5f411e5ad68c59b68661660ed"
+    },
+    ".git\\index": {
+      "checksum": "7533686a08623ee7dc103f38c0cf80cf"
+    },
+    ".git\\info\\exclude": {
+      "checksum": "036208b4a1ab4a235d75c181e685e5a3"
+    },
+    ".git\\logs\\HEAD": {
+      "checksum": "0759a30e353c84fd9fcef746e22006a4"
+    },
+    ".git\\logs\\refs\\heads\\main": {
+      "checksum": "0759a30e353c84fd9fcef746e22006a4"
+    },
+    ".git\\logs\\refs\\remotes\\origin\\HEAD": {
+      "checksum": "0759a30e353c84fd9fcef746e22006a4"
+    },
+    ".git\\objects\\17\\a7deed64e657f2a6aa8631a7f1d3dbcb37397c": {
+      "checksum": "162eb67bd2d79418995937f451f3a98c"
+    },
+    ".git\\objects\\1b\\1ac75478cee82242f503af19aaac9cc92c15dc": {
+      "checksum": "4e526a7343ea4d9a1a1b0a7a2437acc7"
+    },
+    ".git\\objects\\25\\47b0588bc336ded60f3beb3657a88547bc5e90": {
+      "checksum": "4f1d59c8ca1c190e5082a04bda341402"
+    },
+    ".git\\objects\\25\\cbdcc55982ab6a2d285ee39f510036d7e2006a": {
+      "checksum": "891ff1b5299b8197727c29104599159f"
+    },
+    ".git\\objects\\2d\\06a41b0fdd28e33190bdb03a6ac5e1f5c11180": {
+      "checksum": "0082350269bd890ce238bf9974b83f35"
+    },
+    ".git\\objects\\33\\1c7a4d031c023c106124e768aa1ec5eb773c59": {
+      "checksum": "38afec232c05a6ca9e5420513a6e1990"
+    },
+    ".git\\objects\\35\\85bf5411f223705a113c34a77e8c05d06fa075": {
+      "checksum": "af495679b2ba8b7153e1178bc078b137"
+    },
+    ".git\\objects\\47\\240acf29cbe4fa065416dd3e2ee38d2160746e": {
+      "checksum": "ed0019dbe6adeae986d711f6773e689a"
+    },
+    ".git\\objects\\5a\\b380bb38957cdfc96c50ae2aa19f245da2dd95": {
+      "checksum": "ca9a49503b42d761c428ec7ab5a33644"
+    },
+    ".git\\objects\\69\\3475e5cbb62c3d33987f0e10c44c1fb0a67ec8": {
+      "checksum": "b0fa5233dae8c4520351c6520d066fa2"
+    },
+    ".git\\objects\\6f\\952eb0a8f69fc36c134a084523c8741a8c0d4e": {
+      "checksum": "dd0348c33b619b6e9e7b088e1c2fd686"
+    },
+    ".git\\objects\\7e\\d78d679113cd400c3352caecfdfb35732b12bf": {
+      "checksum": "886fc76b5212538419b0c0116ea15892"
+    },
+    ".git\\objects\\81\\551bca81d8ef5e41ba3e51c2ebeb1e5aa41529": {
+      "checksum": "f57b393b0f10a9f43a965066ae177b85"
+    },
+    ".git\\objects\\85\\c37ece18a2e0c85dff7c05c12ec72afc5918fa": {
+      "checksum": "09fc54982ce9f2bd8047f663974bd9f6"
+    },
+    ".git\\objects\\86\\089a2b1d05b425996e676dc8f0362bcf0a3518": {
+      "checksum": "eae41ba99ec60d57deda3e601c8ebadc"
+    },
+    ".git\\objects\\98\\53c8efa91a5fd68cf51149828388bf0e6ef67d": {
+      "checksum": "a032e4a7bdb4eb504c02a76230ab145e"
+    },
+    ".git\\objects\\9b\\76b9ef6f6db01818241ab32d1854b9db0be330": {
+      "checksum": "7eab31b0c3aa2cd44003323fa78ba7c6"
+    },
+    ".git\\objects\\9b\\d30be5f2a26dc332ac911789bbccf09d38e030": {
+      "checksum": "d928b9506ce2fcf61d703869f3da4b6b"
+    },
+    ".git\\objects\\b3\\5a98fb0c410c686b7e5e941b51fb747f1ab689": {
+      "checksum": "c1130c8340616b9f1761eecadbaa566e"
+    },
+    ".git\\objects\\b4\\1f6fa00f36f4792f62ac7d779cdb0b90d60872": {
+      "checksum": "20f7da1eb7ec83113c7bab922d3a45c9"
+    },
+    ".git\\objects\\b6\\e47617de110dea7ca47e087ff1347cc2646eda": {
+      "checksum": "434b7c0d76d0ccddfb871e111becd404"
+    },
+    ".git\\objects\\bd\\8e7b380a0e4f347c11870b8b4e85ba8c85459f": {
+      "checksum": "c2adffee5e12199c6c59a582bbf4af6f"
+    },
+    ".git\\objects\\cb\\594c618bb789f5b8d55c0c50b713380d974c4e": {
+      "checksum": "a475510dbfe6995b3382225cb9e191eb"
+    },
+    ".git\\objects\\cd\\958b414a65e348fc4c1144e3fb806cd962636d": {
+      "checksum": "40b0d63d72058f3f3847a30d58f515c2"
+    },
+    ".git\\objects\\cf\\299774eeafd54acb323e2b2915465b062fa3ac": {
+      "checksum": "3db972fb80751bc43744fa4f1ee1adb1"
+    },
+    ".git\\objects\\d1\\cc03651a67f697017c9c736c0fd45d64a66b52": {
+      "checksum": "9fbeedf8c91dfefe5e2eb2c0ccbb451c"
+    },
+    ".git\\objects\\d8\\f6c635901b4e62c60604f5c4bb33613f6aa31e": {
+      "checksum": "30e1a17ec6c2b043a31e5098190da7c5"
+    },
+    ".git\\objects\\db\\e16d5714f8427438554c15dc36463647c97ce9": {
+      "checksum": "d814a23c18553322e2a4c5f910c41b8f"
+    },
+    ".git\\objects\\de\\ca39e28b4c83dc1796faf67a426536b0bc9a8a": {
+      "checksum": "7a82e12b334d3bddfc520978f574b63f"
+    },
+    ".git\\objects\\e0\\039abc426b9f9d9e88b973b546b01ff12818ed": {
+      "checksum": "20682fb5d402b084dc5e8d88904b2568"
+    },
+    ".git\\objects\\e2\\e1e24a63a4940b77a2512b8662261629947102": {
+      "checksum": "236ef7bce0cebbf89cbdcc52a2f46d8f"
+    },
+    ".git\\objects\\e7\\b6599394e9528e278b00923df0599c2752a7f8": {
+      "checksum": "2222c71c3c8967ebcd215f912e63f6e8"
+    },
+    ".git\\objects\\ea\\629a145f88fe089265ce3d5de16342aaedf2c7": {
+      "checksum": "cdfbcabf72d966ece9028202de6d215e"
+    },
+    ".git\\objects\\f1\\650be7860952ebadc893551bf82c0e533a5c68": {
+      "checksum": "ab64b5ec0d304e7881fc7ff4461766ea"
+    },
+    ".git\\packed-refs": {
+      "checksum": "47e6027e1cfd9e031c1e122b8f1fb55f"
+    },
+    ".git\\refs\\heads\\main": {
+      "checksum": "8bab8d8078ba56c7d7c94efc5b7ae3da"
+    },
+    ".git\\refs\\remotes\\origin\\HEAD": {
+      "checksum": "98b16e0b650190870f1b40bc8f4aec4e"
+    },
+    ".gitignore": {
+      "checksum": "16b21506819375bfc0a0c6958948d3bd"
+    },
+    "app.py": {
+      "checksum": "5cbbd52b844ba9d115b8002b1f4a2e8c"
+    },
+    "assets\\bootsrap.min.css": {
+      "checksum": "43dd8cbd1dcd3ee59d285c4bc03fc8d2"
+    },
+    "assets\\bootstrap.min.js": {
+      "checksum": "50227698239c2613e481717afe57d011"
+    },
+    "pages\\apps\\multiply.py": {
+      "checksum": "3231fbdaa0b9cebd355f28b4713c5b8a"
+    },
+    "pages\\home.py": {
+      "checksum": "c86acb9fa301f259b6ba088075c06fc4"
+    },
+    "requirements\\base.txt": {
+      "checksum": "e2314fa0732f9d6759375f654486fcc1"
+    }
+  }
+}
