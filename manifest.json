@@ -10,7 +10,7 @@
     "package_manager": {
       "name": "pip",
       "version": "22.0.4",
-      "package_file": "requirements.txt"
+      "package_file": "requirements\base.txt"
     }
   },
   "files": {
